@@ -98,7 +98,7 @@ export default function LifetimeDesignEstate() {
           </div>
         </div>
       </div>
-      
+      <Footer />
     </div>
   );
 }
